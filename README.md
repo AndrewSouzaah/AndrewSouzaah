@@ -16,7 +16,6 @@
   <a href="#">leetcode</a>
 </p>
 
----
 
 ## about me
 
@@ -28,7 +27,6 @@ currently focused on javascript, react and building projects.
 studying at una  
 san josé / costa rica  
 
----
 
 ## technologies
 
@@ -36,7 +34,6 @@ san josé / costa rica
 java · python · javascript · html · css · git · mysql
 </p>
 
----
 
 ## stats
 
@@ -48,7 +45,6 @@ java · python · javascript · html · css · git · mysql
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=333333"/>
 </p>
 
----
 
 ## contributions
 
@@ -56,7 +52,6 @@ java · python · javascript · html · css · git · mysql
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true"/>
 </p>
 
----
 
 ## achievements
 
