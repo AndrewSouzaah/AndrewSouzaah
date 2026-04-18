@@ -10,7 +10,7 @@
   <a href="#">LeetCode</a>
 </p>
 
-## <h1 align="center">👨‍💻 About me</h1>
+<h1 align="center">👨‍💻 About me</h1>
 
 Hello there! I'm **Benjamin Solano**, a Systems Engineering student.  
 I enjoy learning new technologies and problem-solving via **Codeforces** and **Codechef**.  
@@ -24,7 +24,6 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 ## <h1 align="center">⚙️ Technologies</h1>
 
 <p align="center">
-  
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge)
