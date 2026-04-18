@@ -11,8 +11,6 @@
   <a href="#">LeetCode</a>
 </p>
 
----
-
 ## 👨‍💻 About me
 
 Hello there! I'm **Benjamin Solano**, a Systems Engineering student.  
@@ -23,7 +21,6 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 🎓 Studying at the National University of Costa Rica (UNA)  
 📍 San José / Costa Rica  
 
----
 
 ## ⚙️ Technologies
 
