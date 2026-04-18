@@ -4,9 +4,6 @@
 
 ##<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/a9deba56-c5b2-4305-a083-9a0b75f8ced5" />
 
-<h1 align="center">Welcome to Benjamin's Github</h1>
-<p align="center">&lt;/&gt;</p>
-
 ---
 
 ## 🔗 Connect with me
@@ -36,14 +33,11 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 
 <p align="center">
   
-![C++](https://img.shields.io/badge/-C++-000?style=for-the-badge)
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge)
-![React](https://img.shields.io/badge/-React-000?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?style=for-the-badge)
 
@@ -54,8 +48,8 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 ## 📊 Statistics
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark"/>
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=true&theme=dark"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&theme=dark"/>
 </p>
 
 ---
@@ -63,7 +57,7 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&theme=github-dark"/>
 </p>
 
 ---
@@ -71,5 +65,5 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AndrewSouzaah&theme=darkhub"/>
 </p>
