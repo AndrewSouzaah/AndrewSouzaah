@@ -24,6 +24,7 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 ## <h1 align="center">⚙️ Technologies</h1>
 
 <p align="center">
+  
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge)
@@ -34,7 +35,7 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 
 </p>
 
-##<h1 align="center">📊 Statistics</h1>
+<h1 align="center">📊 Statistics</h1>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=true&theme=dark"/>
