@@ -10,7 +10,7 @@
   <a href="#">LeetCode</a>
 </p>
 
-## 👨‍💻 About me
+## <h1 align="center">👨‍💻 About me</h1>
 
 Hello there! I'm **Benjamin Solano**, a Systems Engineering student.  
 I enjoy learning new technologies and problem-solving via **Codeforces** and **Codechef**.  
@@ -21,7 +21,7 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 📍 San José / Costa Rica  
 
 
-## ⚙️ Technologies
+## <h1 align="center">⚙️ Technologies</h1>
 
 <p align="center">
   
@@ -35,16 +35,12 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 
 </p>
 
----
-
-## 📊 Statistics
+##<h1 align="center">📊 Statistics</h1>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=true&theme=dark"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&theme=dark"/>
 </p>
-
----
 
 ##
 
@@ -52,9 +48,7 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&theme=github-dark"/>
 </p>
 
----
-
-## 🏆 Achievements
+## <h1 align="center">🏆 Achievements</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndrewSouzaah&theme=darkhub"/>
