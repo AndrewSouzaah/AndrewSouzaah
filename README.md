@@ -1,6 +1,10 @@
 <img width="936" height="379" src="https://github.com/user-attachments/assets/dd3b8142-99c5-48dd-80c8-f58b2d83d7d7" />
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=18&center=true&vCenter=true&width=600&lines=welcome+to+my+github;systems+engineering+student;building+and+learning+every+day" />
+</p>
+
+<p align="center">
   <a href="#">linkedin</a> ·
   <a href="#">codeforces</a> ·
   <a href="#">codechef</a> ·
