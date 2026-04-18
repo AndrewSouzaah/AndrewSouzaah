@@ -1,6 +1,7 @@
 <img width="836" height="379" alt="jpg(23)" src="https://github.com/user-attachments/assets/dd3b8142-99c5-48dd-80c8-f58b2d83d7d7" />
 
----
+##
+
 <p align="center">
   <a href="#">LinkedIn</a> •
   <a href="#">Codeforces</a> •
@@ -45,7 +46,7 @@ Now I'm learning a lot of new and fun projects to put in practice my knowledge a
 
 ---
 
-## 📈 Contribution Graph
+##
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&theme=github-dark"/>
