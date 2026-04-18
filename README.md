@@ -2,7 +2,7 @@
 
 ---
 
-## <h1 🔗 Connect with me</h1><p align="center">
+## <h1 align="center">🔗 Connect with me</h1><p align="center">
 <p align="center">
   <a href="#">LinkedIn</a> •
   <a href="#">Codeforces</a> •
