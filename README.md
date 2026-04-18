@@ -19,13 +19,13 @@
 
 ## about me
 
-hello there! i'm **benjamin solano**, a systems engineering student.  
+hello there! i'm **Andrew Souza**, a systems engineering student.  
 i enjoy learning new technologies and problem-solving.
 
 currently focused on javascript, react and building projects.
 
-studying at una  
-san josé / costa rica  
+Formado na Universidade
+Estacio de Sá / Rio de Janeiro
 
 
 ## technologies
