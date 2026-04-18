@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; width: 100%; max-width: 936px; margin: auto;">
 
-  <img width="100%" src="https://github.com/user-attachments/assets/dd3b8142-99c5-48dd-80c8-f58b2d83d7d7" />
+  <img width="100%" src="https://github.com/user-attachments/assets/4f84ac9e-20de-4b61-aaba-3cb1130cc568" />
 
   <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%);">
     <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=welcome+to+my+github;systems+engineering+student;building+projects" />
