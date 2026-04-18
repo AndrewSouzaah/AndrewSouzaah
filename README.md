@@ -1,6 +1,6 @@
 <img width="836" height="379" alt="jpg(23)" src="https://github.com/user-attachments/assets/dd3b8142-99c5-48dd-80c8-f58b2d83d7d7" />
 
----
+--
 
 <p align="center">
   <a href="#">LinkedIn</a> •
