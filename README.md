@@ -37,7 +37,7 @@ java · python · javascript · html · css · git · mysql
 
 ## stats
 
-<p align="left"><img height="150" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
+<p><img height="150" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=333333"/>
 </p>
 
