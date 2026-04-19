@@ -30,7 +30,7 @@
   <sub><b>Universidade Estácio de Sá</b></sub>
 </p>
 
-<img width="736" height="414" alt="achtergtond ofline" src="https://github.com/user-attachments/assets/8f2d029a-259c-4b40-bc9a-bc655d037f9c" />
+<img align="center" width="736" height="414" alt="achtergtond ofline" src="https://github.com/user-attachments/assets/8f2d029a-259c-4b40-bc9a-bc655d037f9c" />
 
 
 <br>
