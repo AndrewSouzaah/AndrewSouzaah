@@ -47,6 +47,8 @@ Atualmente atuo na área de Designer Gráfico.
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+<br><br>
+
 <br><br><br><br><br>
 
 
