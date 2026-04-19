@@ -23,7 +23,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 <br><br>
 
 <p align="center">
-  <img width="450" src="https://github.com/user-attachments/assets/a89a7bea-c09b-40b5-92eb-3fa8b5c317c5" />
+  <img width="600" src="https://github.com/user-attachments/assets/a89a7bea-c09b-40b5-92eb-3fa8b5c317c5" />
 </p>
 
 <br><br><br>
