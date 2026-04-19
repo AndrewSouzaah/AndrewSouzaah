@@ -60,9 +60,6 @@ Atualmente atuo na área de Designer Gráfico.
   <a href="#">
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white"/>
-  </a>
   <a href="mailto:seuemail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
