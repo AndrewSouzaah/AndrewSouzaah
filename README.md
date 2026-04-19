@@ -17,7 +17,7 @@
 </p>
 
 
-##<h1 align="center">SOBRE</h1>
+<h1 align="center">##SOBRE</h1>
 
 Olá! Eu sou **Andrew Souza**, formado pela Universidade Estacio de Sá em Analise e Desenvolvimento de Sistemas, 
 atualmente atuo na area de Designer Grafico,
