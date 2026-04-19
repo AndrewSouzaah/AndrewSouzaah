@@ -35,7 +35,8 @@
 </p>
 
 
-<img width="260" src="https://github.com/user-attachments/assets/a89a7bea-c09b-40b5-92eb-3fa8b5c317c5" />
+<img width="736" height="414" alt="achtergtond ofline" src="https://github.com/user-attachments/assets/8f2d029a-259c-4b40-bc9a-bc655d037f9c" />
+
 
 
 <br><br>
