@@ -17,7 +17,7 @@
 
 <br>
 
- <p align="center"><i>SOBRE</i></p>
+ ## *<p align="center"><i>SOBRE</i></p>*
 
 <br>
 
@@ -60,7 +60,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br>
 
-## <p align="center"><i>TECNOLOGIAS</i></p>
+## *<p align="center"><i>TECNOLOGIAS</i></p>*
 
 <br>
 
@@ -74,7 +74,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br>
 
-## <p align="center"><i>ESTATISTICAS</i></p>
+## *<p align="center"><i>ESTATISTICAS</i></p>*
 
 <br>
 
@@ -92,7 +92,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br>
 
-## <p align="center"><i>CONTRIBUIÇÕES</i></p>
+## *<p align="center"><i>CONTRIBUIÇÕES</i></p>*
 
 <br>
 
@@ -106,7 +106,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br>
 
-## <p align="center"><i>CONQUISTAS</i></p>
+## *<p align="center"><i>CONQUISTAS</i></p>*
 
 <br>
 
