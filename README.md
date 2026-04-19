@@ -11,7 +11,8 @@
   <td width="65%" align="center">
 
 <img  align="right" width="200" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
-Olá! Eu sou <b>Andrew Souza</b>, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas,
+Olá! Eu sou <b>Andrew Souza</b>, formado pela Universidade Estácio de Sá 
+em Análise e Desenvolvimento de Sistemas,
 atualmente atuo na área de Designer Gráfico.
 
 
