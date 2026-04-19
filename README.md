@@ -22,7 +22,8 @@
 <br>
 
 
-<img align="right" width="184" height="215" alt="Design sem nome" src="https://github.com/user-attachments/assets/151bea53-f662-467c-abba-14ed64ba3fa4" />
+
+<img align="right" width="184" height="215" alt="Design_sem_nome-removebg-preview" src="https://github.com/user-attachments/assets/d82dac86-34b7-4622-8e96-77aa923ab727" />
 Olá! Eu sou **Andrew Souza**, formado pela Universidade Estacio de Sá em Analise e Desenvolvimento de Sistemas, 
 atualmente atuo na area de Designer Grafico,
 
