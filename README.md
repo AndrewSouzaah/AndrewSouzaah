@@ -3,7 +3,7 @@
   <img width="100%" src="https://github.com/user-attachments/assets/4f84ac9e-20de-4b61-aaba-3cb1130cc568" />
 
   <div style="position: absolute; top: 45%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=welcome+to+my+github;systems+engineering+student;building+projects" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+github;Desenvolvedor+de+Sistemas;Construindo+novos+projetos" />
   </div>
 
 </div>
@@ -11,9 +11,7 @@
 <p align="center">
   <a href="#">linkedin</a> ·
   <a href="#">codeforces</a> ·
-  <a href="#">codechef</a> ·
   <a href="#">pinterest</a> ·
-  <a href="#">leetcode</a>
 </p>
 
 
