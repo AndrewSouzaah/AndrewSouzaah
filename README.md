@@ -35,7 +35,8 @@ Estacio de Sá / Rio de Janeiro
 
 
 
-<br>
+<br><br>
+
 
 *<h1 align="center">TECNOLOGIAS</h1>*
 
