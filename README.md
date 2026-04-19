@@ -15,7 +15,7 @@
   <td width="65%" align="center">
     
 <p align="center">
-<img  align="left" width="200" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
+<img  align="left" width="200" src="https://github.com/user-attachments/assets/4f651dc7-d780-49c1-ad31-bf19ac0c122c" />
 Olá! Eu sou <b>Andrew Souza</b>, 
 formado em Análise e Desenvolvimento de Sistemas,
 pela Universidade Estácio de Sá.  
