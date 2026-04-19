@@ -8,7 +8,7 @@
 
 <h2 align="center" style="margin: 10px 0;"><sub>SOBRE</sub></h2>
 
-  <td width="65%" align="left">
+  <td width="65%" align="center">
 
 <img  align="right" width="200" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
 Olá! Eu sou <b>Andrew Souza</b>, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas,
@@ -17,16 +17,17 @@ atualmente atuo na área de Designer Gráfico.
 
 
 <br><br>
-
-<sub align="center">
+<p align="center">
+<sub>
 🎓 Universidade Estácio de Sá <br>
 💻 Interesse em tecnologia e desenvolvimento <br>
 🎨 Designer gráfico
 </sub>
-
+</p>
    </td>
 
-<br><br>
+<br><br><br>
+
 
 <h2 align="center" style="margin: 10px 0;"><i>REDES SOCIAIS</i></h2>
 
