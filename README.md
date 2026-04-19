@@ -15,10 +15,11 @@
 
 
 
+<br>
 
+*<h1 align="center">SOBRE</h1>*
 
-<h1 align="center">*SOBRE*</h1>
-
+<br>
 
 Olá! Eu sou **Andrew Souza**, formado pela Universidade Estacio de Sá em Analise e Desenvolvimento de Sistemas, 
 atualmente atuo na area de Designer Grafico,
@@ -30,9 +31,11 @@ Estacio de Sá / Rio de Janeiro
 
 
 
+<br>
 
+*<h1 align="center">TECNOLOGIAS</h1>*
 
-<h1 align="center">*TECNOLOGIAS*</h1>
+<br>
 
 <p align="center">
 java · python · javascript · html · css · git · mysql
@@ -40,9 +43,11 @@ java · python · javascript · html · css · git · mysql
 
 
 
+<br>
 
+*<h1 align="center">ESTATISTICAS</h1>*
 
-<h1 align="center">*ESTATISTICAS*</h1>
+<br>
 
 <p align="center">
   <img height="150" style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
@@ -52,9 +57,11 @@ java · python · javascript · html · css · git · mysql
 
 
 
+<br>
 
+*<h1 align="center">CONTRIBUIÇÕES</h1>*
 
-<h1 align="center">*CONTRIBUIÇÕES*</h1>
+<br>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true"/>
@@ -64,7 +71,7 @@ java · python · javascript · html · css · git · mysql
 
 
 
-<h1 align="center">CONQUISTAS</h1>
+*<h1 align="center">CONQUISTAS</h1>*
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndrewSouzaah&theme=onestar&no-frame=true&no-bg=true"/>
