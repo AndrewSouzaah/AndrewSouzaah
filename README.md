@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+github;Desenvolvedor+de+Sistemas;Construindo+novos+projetos" />
 </p>
 
-<p align="center">
-  <a href="#">linkedin</a> ·
-  <a href="#">pinterest</a>
-</p>
-
-<br><br>
-
-
-
 <br>
 
 ## *<p align="center"><i>SOBRE</i></p>*
@@ -34,6 +25,13 @@
 
 
 <br>
+
+## *<p align="center"><i>REDES SOCIAIS</i></p>*
+
+<p align="center">
+  <a href="#">linkedin</a> ·
+  <a href="#">pinterest</a>
+</p>
 
 ## *<p align="center"><i>TECNOLOGIAS</i></p>*
 
