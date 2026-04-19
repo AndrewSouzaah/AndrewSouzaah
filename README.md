@@ -1,11 +1,9 @@
-<p align="center" style="margin: 10px 0;">
-  <img width="100%" src="https://github.com/user-attachments/assets/ba597204-bd4c-4b9c-9c1e-f979c75495c2" />
-</p>
-
-##
-
 <p align="center"style="margin: 10px 0;">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza;Falo+mais+sobre+mim+a+seguir+↓" />
+</p>
+
+<p align="center" style="margin: 10px 0;">
+  <img width="100%" src="https://github.com/user-attachments/assets/ba597204-bd4c-4b9c-9c1e-f979c75495c2" />
 </p>
 
 <br><br>
