@@ -20,8 +20,9 @@
 *<sub><h1 align="center">SOBRE</h1></sub>*
 
 <br>
-<img align="right" width="135" height="182" alt="jpg(14)" src="https://github.com/user-attachments/assets/c19e6613-9a58-466d-909b-f182792a2fff" />
 
+
+<img align="right" width="184" height="215" alt="Design sem nome" src="https://github.com/user-attachments/assets/151bea53-f662-467c-abba-14ed64ba3fa4" />
 Olá! Eu sou **Andrew Souza**, formado pela Universidade Estacio de Sá em Analise e Desenvolvimento de Sistemas, 
 atualmente atuo na area de Designer Grafico,
 
