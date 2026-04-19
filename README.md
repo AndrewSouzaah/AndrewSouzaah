@@ -18,7 +18,7 @@ atualmente atuo na área de Designer Gráfico.
 
 <br><br>
 
-<sub>
+<sub align="center">
 🎓 Universidade Estácio de Sá <br>
 💻 Interesse em tecnologia e desenvolvimento <br>
 🎨 Designer gráfico
