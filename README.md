@@ -25,11 +25,8 @@
 
 <br><br><br>
 
-Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas, atualmente atuo na área de Designer Gráfico.
+<h1 align="left"> Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas, atualmente atuo na área de Designer Gráfico.</h1>
 
-<br><br>
-
-<sub><i>formado na universidade estácio de sá / rio de janeiro</i></sub>
 
 <br><br><br>
 
