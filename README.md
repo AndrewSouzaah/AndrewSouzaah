@@ -39,7 +39,7 @@ Atualmente atuo na área de Designer Gráfico.
 
 
 <img  align="left" width="170" src="https://github.com/user-attachments/assets/8ca1d18c-3372-491a-8ab8-68ac5f7fa053" />
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
