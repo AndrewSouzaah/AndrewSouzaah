@@ -6,32 +6,28 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza;Falo+mais+sobre+mim+a+seguir+↓" />
 </p>
 
-<h2 align="center" style="margin: 5px 0; font-weight: normal;">
-  <sub>⚙️ About me</sub>
-</h2>
+<h2 align="center" style="margin: 10px 0;"><sub>SOBRE</sub></h2>
 
-<table width="100%" cellspacing="0" cellpadding="0">
+<table width="100%">
   <tr>
-    <td width="65%" align="left" valign="top">
+    <td width="65%" align="left">
 
-<sub>
-Hello There! I'm <b>Andrew Souza</b>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and CodeChef. Now I'm working at some little and fun projects to put in practice my actual knowledge, React, Bootstrap and more.
-</sub>
+Olá! Eu sou <b>Andrew Souza</b>, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas,
+atualmente atuo na área de Designer Gráfico.
 
 <br><br>
 
 <sub>
-🎓 <b>Universidade Estácio de Sá</b><br>
-💻 Student of Systems Engineering<br>
-🎨 Graphic Designer<br>
-♟️ Chess Player
+🎓 Universidade Estácio de Sá <br>
+💻 Interesse em tecnologia e desenvolvimento <br>
+🎨 Designer gráfico
 </sub>
 
-    </td>
+   </td>
 
-    <td width="35%" align="right">
-      <img width="220" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
-    </td>
+  <td width="35%" align="right">
+    <img width="200" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
+   </td>
   </tr>
 </table>
 
