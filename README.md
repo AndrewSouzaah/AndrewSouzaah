@@ -8,9 +8,7 @@
 
 <h2 align="center" style="margin: 10px 0;"><sub>SOBRE</sub></h2>
 
-<table width="100%">
-  <tr>
-    <td width="65%" align="left">
+  <td width="65%" align="left">
 
 Olá! Eu sou <b>Andrew Souza</b>, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas,
 atualmente atuo na área de Designer Gráfico.
@@ -28,8 +26,7 @@ atualmente atuo na área de Designer Gráfico.
   <td width="35%" align="right">
     <img width="200" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
    </td>
-  </tr>
-</table>
+
 
 <br><br>
 
