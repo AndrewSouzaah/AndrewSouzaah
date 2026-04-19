@@ -1,4 +1,3 @@
-
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/ba597204-bd4c-4b9c-9c1e-f979c75495c2" />
 </p>
@@ -7,11 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza;Falo+mais+sobre+mim+a+seguir+↓" />
 </p>
 
-## *<p align="center"><sub>SOBRE</sub>*</p>
+<h2 align="center" style="margin: 10px 0;"><sub>SOBRE</sub></h2>
 
 <p align="center">
-
-Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas,
+Olá! Eu sou <b>Andrew Souza</b>, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas,
 atualmente atuo na área de Designer Gráfico.
 </p>
 
@@ -23,15 +21,14 @@ atualmente atuo na área de Designer Gráfico.
 
 <br><br>
 
-
 <p align="center">
   <img width="560" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
 </p>
 
 <br><br><br>
 
+<h2 align="center" style="margin: 10px 0;"><i>REDES SOCIAIS</i></h2>
 
-## *<p align="center"><i>REDES SOCIAIS</i></p>*
 <p align="center">
   <a href="#">linkedin</a> ·
   <a href="#">pinterest</a>
@@ -39,20 +36,26 @@ atualmente atuo na área de Designer Gráfico.
 
 <br><br>
 
-## *<p align="center"><i>TECNOLOGIAS</i></p>*
+<h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
+
 <p align="center">
 <sub>java · python · javascript · html · css · git · mysql</sub>
 </p>
 
 <br><br><br>
 
-## *<p align="center"><i>ESTATISTICAS</i></p>*
+<h2 align="center" style="margin: 10px 0;"><i>ESTATISTICAS</i></h2>
 
-<br> <p align="center"> <img height="150" style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=333333"/> </p> <br>
+<br>
+<p align="center">
+  <img height="150" style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=333333"/>
+</p>
+<br>
 
 <br><br><br>
 
-## *<p align="center"><i>CONTRIBUIÇÕES</i></p>*
+<h2 align="center" style="margin: 10px 0;"><i>CONTRIBUIÇÕES</i></h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true"/>
@@ -60,7 +63,7 @@ atualmente atuo na área de Designer Gráfico.
 
 <br><br>
 
-## *<p align="center"><i>CONQUISTAS</i></p>*
+<h2 align="center" style="margin: 10px 0;"><i>CONQUISTAS</i></h2>
 
 <br>
 
