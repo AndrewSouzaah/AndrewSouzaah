@@ -1,12 +1,9 @@
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/4f84ac9e-20de-4b61-aaba-3cb1130cc568" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+github;Desenvolvedor+de+Sistemas;Construindo+novos+projetos" />
 </p>
-
-<br>
 
 ## *<p align="center"><i>SOBRE</i></p>*
 
