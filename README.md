@@ -5,20 +5,36 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza;Falo+mais+sobre+mim+a+seguir+↓" />
 </p>
 
-## *<p align="center"><i>SOBRE</i></p>*
+## <p align="center"><i>SOBRE</i></p>
 
 <br>
 
+<!-- LOBO NO CANTO DIREITO -->
+<p align="right">
+  <img width="140" src="https://github.com/user-attachments/assets/e8d19f7b-3316-4cec-9ba0-d7358ebbada6" />
+</p>
+
 Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas, atualmente atuo na área de Designer Gráfico.
 
+<br><br>
+
+<sub><i>formado na universidade estácio de sá / rio de janeiro</i></sub>
+
+<br><br>
+
+<!-- UNIVERSIDADE -->
 <p>
   <sub><b>Universidade Estácio de Sá</b></sub>
 </p>
 
-<img align="center" width="220" src="https://github.com/user-attachments/assets/e8d19f7b-3316-4cec-9ba0-d7358ebbada6" />
-
-
 <br><br>
+
+<!-- HOMEM-ARANHA CENTRALIZADO -->
+<p align="center">
+  <img width="300" src="https://github.com/user-attachments/assets/a89a7bea-c09b-40b5-92eb-3fa8b5c317c5" />
+</p>
+
+<br><br><br>
 
 
 ## *<p align="center"><i>REDES SOCIAIS</i></p>*
