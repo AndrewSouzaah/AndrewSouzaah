@@ -17,25 +17,25 @@
 </p>
 
 
-## about me
+## <h1 align="center">SOBRE</h1>
 
-hello there! i'm **Andrew Souza**, a systems engineering student.  
-i enjoy learning new technologies and problem-solving.
+Olá! Eu sou **Andrew Souza**, formado pela Universidade Estacio de Sá em Analise e Desenvolvimento de Sistemas, 
+atualmente atuo na area de Designer Grafico,
 
-currently focused on javascript, react and building projects.
+
 
 Formado na Universidade
 Estacio de Sá / Rio de Janeiro
 
 
-## technologies
+## <h1 align="center">TECNOLOGIAS</h1>
 
 <p align="center">
 java · python · javascript · html · css · git · mysql
 </p>
 
 
-## stats
+## <h1 align="center">ESTATISTICAS</h1>
 
 <p align="center">
   <img height="150" style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
@@ -43,14 +43,14 @@ java · python · javascript · html · css · git · mysql
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=333333"/>
 </p>
 
-## contributions
+## <h1 align="center">CONTRIBUIÇÕES</h1>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true"/>
 </p>
 
 
-## achievements
+## <h1 align="center">CONQUISTAS</h1>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndrewSouzaah&theme=onestar&no-frame=true&no-bg=true"/>
