@@ -18,7 +18,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 <img align="center" width="220" src="https://github.com/user-attachments/assets/e8d19f7b-3316-4cec-9ba0-d7358ebbada6" />
 
 
-<br><br><br>
+<br><br>
 
 
 ## *<p align="center"><i>REDES SOCIAIS</i></p>*
@@ -30,17 +30,12 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 ## *<p align="center"><i>TECNOLOGIAS</i></p>*
 
-<br>
-
 <p align="center">
 <sub>java · python · javascript · html · css · git · mysql</sub>
 </p>
 
 <br><br>
 
-
-
-<br>
 
 ## *<p align="center"><i>ESTATISTICAS</i></p>*
 
