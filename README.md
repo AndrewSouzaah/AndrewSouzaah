@@ -17,7 +17,7 @@
 
 <br>
 
-*<h1 align="center">SOBRE</h1>*
+*<sub><h1 align="center">SOBRE</h1></sub>*
 
 <br>
 
