@@ -13,7 +13,7 @@
 
 <br><br>
 
----
+
 
 <br>
 
@@ -56,7 +56,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br><br>
 
----
+
 
 <br>
 
@@ -70,7 +70,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br><br>
 
----
+
 
 <br>
 
@@ -88,7 +88,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br><br>
 
----
+
 
 <br>
 
@@ -102,7 +102,7 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br><br>
 
----
+
 
 <br>
 
