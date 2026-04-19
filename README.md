@@ -37,7 +37,12 @@ atualmente atuo na área de Designer Gráfico.
 <h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
 
 <p align="center">
-<sub>java · python · javascript · html · css · git · mysql</sub>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <br><br><br>
