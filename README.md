@@ -34,6 +34,13 @@ atualmente atuo na área de Designer Gráfico.
 
 <br><br><br>
 
+<h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
+
+<p align="center">
+<sub>java · python · javascript · html · css · git · mysql</sub>
+</p>
+
+<br><br><br>
 
 <h2 align="center" style="margin: 10px 0;"><i>REDES SOCIAIS</i></h2>
 
@@ -43,14 +50,6 @@ atualmente atuo na área de Designer Gráfico.
 </p>
 
 <br><br>
-
-<h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
-
-<p align="center">
-<sub>java · python · javascript · html · css · git · mysql</sub>
-</p>
-
-<br><br><br>
 
 <h2 align="center" style="margin: 10px 0;"><i>ESTATISTICAS</i></h2>
 
