@@ -10,7 +10,6 @@
 
 <p align="center">
   <a href="#">linkedin</a> ·
-  <a href="#">codeforces</a> ·
   <a href="#">pinterest</a> ·
 </p>
 
