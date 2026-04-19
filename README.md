@@ -1,5 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/9cda9d84-c110-4046-9ca3-4073f5277c1b" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza;Falo+mais+sobre+mim+a+seguir+↓" />
