@@ -19,7 +19,7 @@ atualmente atuo na área de Designer Gráfico.
 
 <br><br>
 
-<p>
+<p align="center">
   <sub><b>Universidade Estácio de Sá</b></sub>
 </p>
 
