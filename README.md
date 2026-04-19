@@ -33,10 +33,13 @@ atualmente atuo na area de Designer Grafico,
 Formado na Universidade
 Estacio de Sá / Rio de Janeiro
 
-<br>
+<br><br>
 
 
-<img width="735" height="397" alt="jpg(24)" src="https://github.com/user-attachments/assets/a89a7bea-c09b-40b5-92eb-3fa8b5c317c5" />
+
+<img align="center" width="735" height="397" alt="jpg(24)" src="https://github.com/user-attachments/assets/a89a7bea-c09b-40b5-92eb-3fa8b5c317c5" />
+
+<br><br>
 
 
 
