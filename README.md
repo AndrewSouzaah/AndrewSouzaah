@@ -1,4 +1,3 @@
-<!-- BANNER (sem overlay quebrado) -->
 <p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/4f84ac9e-20de-4b61-aaba-3cb1130cc568" />
 </p>
@@ -18,15 +17,15 @@
 
 <br>
 
-## <p align="center"><i>SOBRE</i></p>
+ <p align="center"><i>SOBRE</i></p>
 
 <br>
 
 <table width="100%">
 <tr>
 
-<!-- TEXTO -->
-<td width="65%" valign="top">
+
+<td align="left" width="65%" valign="top">
 
 Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Análise e Desenvolvimento de Sistemas, atualmente atuo na área de Designer Gráfico.
 
@@ -36,17 +35,15 @@ Olá! Eu sou **Andrew Souza**, formado pela Universidade Estácio de Sá em Aná
 
 <br><br><br>
 
-<!-- UNIVERSIDADE -->
 <p>
   <sub><b>Universidade Estácio de Sá</b></sub>
 </p>
 
 </td>
 
-<!-- IMAGENS -->
 <td width="35%" align="center" valign="top">
 
-<img width="120" src="https://github.com/user-attachments/assets/e8d19f7b-3316-4cec-9ba0-d7358ebbada6" />
+<img align="right" width="120" src="https://github.com/user-attachments/assets/e8d19f7b-3316-4cec-9ba0-d7358ebbada6" />
 
 <br><br><br>
 
