@@ -37,7 +37,7 @@ Atualmente atuo na área de Designer Gráfico.
 
 <h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
 
-<img  align="right" width="200" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
+<img  align="right" width="100" src="https://github.com/user-attachments/assets/a9187ee9-deb4-4ba7-83ae-767348f82e57" />
 <p align="center">
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
