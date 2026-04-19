@@ -17,7 +17,7 @@
 
 <br>
 
-##*<p align="center"><i>SOBRE</i></p>*
+## *<p align="center"><i>SOBRE</i></p>*
 
 <br>
 
