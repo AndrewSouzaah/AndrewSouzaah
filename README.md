@@ -7,7 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza;Falo+mais+sobre+mim+a+seguir+↓" />
 </p>
 
-## <p align="center"><i>SOBRE</i></p>
+## 
+*<p align="center"><sub>sobre</sub>*
+</p>
 
 <br>
 
