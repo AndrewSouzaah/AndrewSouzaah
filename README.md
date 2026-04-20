@@ -6,8 +6,6 @@
   <img width="100%" src="https://github.com/user-attachments/assets/6d849ec1-2a31-4c2c-8526-3c57d8e649cd" />
 </p>
 
-<br><br>
-
 <h2 align="center" style="margin: 10px 0;"><i>SOBRE</i></h2>
 
   <td width="65%" align="center">
