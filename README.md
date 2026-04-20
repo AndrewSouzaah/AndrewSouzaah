@@ -80,13 +80,3 @@ Atualmente atuo na área de Designer Gráfico.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewSouzaah&bg_color=000000&color=ffffff&line=ffffff&point=888888&hide_border=true"/>
 </p>
-
-<br><br>
-
-<h2 align="center" style="margin: 10px 0;"><i>CONQUISTAS</i></h2>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrewSouzaah&theme=onestar&no-frame=true&no-bg=true"/>
-</p>
