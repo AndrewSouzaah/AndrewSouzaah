@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=22&center=true&vCenter=true&width=500&lines=Bem-Vindo+ao+meu+Github;Me+chamo+Andrew+Souza" />
-</p>
-
-<p align="center">
   <img width="100%" src="https://github.com/user-attachments/assets/6d849ec1-2a31-4c2c-8526-3c57d8e649cd" />
 </p>
 
