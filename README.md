@@ -10,7 +10,7 @@
 <img  align="right" width="200" src="https://github.com/user-attachments/assets/4f651dc7-d780-49c1-ad31-bf19ac0c122c" />
 Olá! Eu sou <b>Andrew Souza</b>, 
 formado em Análise e Desenvolvimento de Sistemas,
-Atualmente atuo na área de Designer Gráfico como freelancer.
+atualmente atuo na área de Designer Gráfico como freelancer.
 Meus hobbies sao correr, musculação e jogar nas horas vagas e desenhar de vez em quando(acontece 1 vez no ano). 
 Sou aberto a varios estilos musicais (ecletico) e atividades como lutas em geral
 
