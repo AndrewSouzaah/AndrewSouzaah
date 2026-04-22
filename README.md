@@ -9,12 +9,9 @@
 <p align="center">
 <img  align="right" width="200" src="https://github.com/user-attachments/assets/4f651dc7-d780-49c1-ad31-bf19ac0c122c" />
 Olá! Eu sou <b>Andrew Souza</b>, formado em Análise e Desenvolvimento de Sistemas. Atualmente, atuo na área de Design Gráfico como freelancer.
-
 Meus hobbies são correr, praticar musculação, jogar nas horas vagas e desenhar de vez em quando (acontece uma vez no ano 😄).
-
 Gosto de atividades como lutas em geral, já pratiquei judô e taekwondo, e pretendo começar alguma outra.
-
-Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a conhecer e viver novas experiências.
+Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a viver novas experiências.
 
 </p>
 
@@ -25,7 +22,7 @@ Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a 
 🎨 Designer gráfico
 </sub>
 </p>
-   </td>
+  </td>
 
 <br><br><br>
 
