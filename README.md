@@ -12,7 +12,9 @@ Olá! Eu sou <b>Andrew Souza</b>,
 formado em Análise e Desenvolvimento de Sistemas,
 atualmente atuo na área de Designer Gráfico como freelancer.
 Meus hobbies sao correr, musculação, jogar nas horas vagas e desenhar de vez em quando(acontece 1 vez no ano). 
-Sou ecletico, gosto de atividades como lutas em geral, ja lutei Judo, taekwondo e pretendo começar alguma outra.
+Sou ecletico, gosto de atividades como lutas em geral,
+ja lutei Judo, taekwondo e pretendo começar alguma outra.
+No mais é isso, estou sempre aberto a conhecer e viver novas coisas.
 
 </p>
 
