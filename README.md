@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/6d849ec1-2a31-4c2c-8526-3c57d8e649cd" />
+  <img width="100%" src="https://github.com/user-attachments/assets/8313b15f-31f4-442c-98fe-6c9d9b18ff10"" />
 </p>
 
 <h2 align="center" style="margin: 10px 0;"><i>SOBRE</i></h2>
