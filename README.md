@@ -57,18 +57,13 @@ Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a 
   </a>
 </p>
 
-<br>
 
 <h2 align="center" style="margin: 10px 0;"><i>ESTATISTICAS</i></h2>
 
-<br>
 <p align="center">
   <img height="150" style="margin-right: 40px;" src="https://github-readme-stats.vercel.app/api?username=AndrewSouzaah&show_icons=false&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewSouzaah&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&border=333333"/>
 </p>
-<br>
-
-<br>
 
 <h2 align="center" style="margin: 10px 0;"><i>CONTRIBUIÇÕES</i></h2>
 
