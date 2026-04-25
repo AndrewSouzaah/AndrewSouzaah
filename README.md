@@ -29,10 +29,7 @@ Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a 
 
 <h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
 
-<img width="500" height="666" alt="d95it6h-ceaa1da3-727a-402f-8061-9a0a8e68af13" src="https://github.com/user-attachments/assets/d35c2bc0-e840-4e1d-95cb-836cba1449f5" />
-
-
-<img  align="left" width="170" src="https://github.com/user-attachments/assets/d35c2bc0-e840-4e1d-95cb-836cba1449f5" />
+<img  align="left" width="170" src="https://github.com/user-attachments/assets/c1eb6806-247c-4c53-b40b-a94ed80edd8f" />
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
