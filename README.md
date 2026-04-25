@@ -57,7 +57,7 @@ Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a 
   </a>
 </p>
 
-<br><br>
+<br>
 
 <h2 align="center" style="margin: 10px 0;"><i>ESTATISTICAS</i></h2>
 
@@ -68,7 +68,7 @@ Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a 
 </p>
 <br>
 
-<br><br>
+<br>
 
 <h2 align="center" style="margin: 10px 0;"><i>CONTRIBUIÇÕES</i></h2>
 
