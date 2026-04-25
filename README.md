@@ -8,7 +8,7 @@
   <td width="65%" align="center">
     
 <p align="center">
-<img  align="right" width="200" src="https://github.com/user-attachments/assets/4f651dc7-d780-49c1-ad31-bf19ac0c122c" />
+<img  align="right" width="200" src="https://github.com/user-attachments/assets/c0c54a17-81ba-420b-a67a-dbe9ed732ed9" />
 Olá! Eu sou <b>Andrew Souza</b>, formado em Análise e Desenvolvimento de Sistemas. Atualmente, atuo na área de Design Gráfico como freelancer.
 Meus hobbies são correr, praticar musculação, jogar nas horas vagas e desenhar de vez em quando (acontece uma vez no ano 😄).
 Gosto de atividades como lutas em geral, trilhas e etc, já pratiquei judô e taekwondo, e pretendo começar alguma outra.
@@ -29,7 +29,7 @@ Em relação à música, sou eclético. No mais, é isso, estou sempre aberto a 
 
 <h2 align="center" style="margin: 10px 0;"><i>TECNOLOGIAS</i></h2>
 
-<img  align="left" width="170" src="https://github.com/user-attachments/assets/c0c54a17-81ba-420b-a67a-dbe9ed732ed9" />
+<img  align="left" width="170" src="https://github.com/user-attachments/assets/bf6d3f17-cf3b-4e41-92c0-aa9808fcaee6" />
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
